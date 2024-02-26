@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /policy/
 title: Policy
 description: 
 nav: true
