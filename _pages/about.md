@@ -19,3 +19,7 @@ social: false # includes social icons at the bottom of the page
 I am a PhD candidate in Economics at CREST & Institut Polytechnique de Paris under the supervision of <a href='https://sites.google.com/site/benoitschmutz/'>Benoit Schmutz</a> and <a href='http://www.isabellemejean.com/'>Isabelle Mejean</a>
 
 My research topics are economic **geography, labor, migration** and **urban economics**
+
+You can find my full <a href='https://drive.google.com/file/d/1hMRicrYkQpj1WdExWVBfnOagIF7oAP_g/view?usp=drive_link'>**CV**</a> here
+
+**Reach out** at maddalena.conte@ensae.fr
