@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 6
 ---
-<a href='https://www.manageritalia.it/osservatorio-del-terziario/'>**Economist - Osservatorio del Terziario Manageritalia**</a>
+<a href='https://www.manageritalia.it/osservatorio-del-terziario/'>Economist - Osservatorio del Terziario Manageritalia</a>
 
 *November 2022 - ongoing*
 
@@ -17,7 +17,7 @@ This think tank develops analysis and reports on the services sector of the Ital
 - Presented results of our research in seminars and conferences
 - Organized webinars and events for policymakers and stakeholders at the local and national level
 
-<a href='https://www.tortuga-econ.it/'>**Fellow - Think Tank Tortuga**</a>
+<a href='https://www.tortuga-econ.it/'>Fellow - Think Tank Tortuga</a>
 
 *June 2017 - April 2022*
 
