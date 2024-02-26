@@ -11,7 +11,7 @@ nav_order: 6
 November 2022 - ongoing
 
 This think tank develops analysis and reports on the services sector of the Italian economy, with the aim of  highlighting opportunities for Italy's sustainable development and competitiveness. 
-- I have produced comparative studies between Italy and its global economic partners
+- As part of this think tank, I have produced comparative studies between Italy and its global economic partners
 - Collaborated with policymakers and private-sector stakeholders on analytical pieces and policy recommendations
 - Prepared a quarterly newsletter with updates on the Italian economy
 - Presented results of our research in seminars and conferences
