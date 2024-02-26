@@ -20,6 +20,6 @@ I am a PhD candidate in Economics at CREST & Institut Polytechnique de Paris und
 
 My research topics are economic **geography, labor, migration** and **urban economics**
 
-You can find my full <a href='https://drive.google.com/file/d/1hMRicrYkQpj1WdExWVBfnOagIF7oAP_g/view?usp=drive_link'>**CV**</a> here
+You can find my full **CV** <a href='https://drive.google.com/file/d/1hMRicrYkQpj1WdExWVBfnOagIF7oAP_g/view?usp=drive_link'>**here**</a>
 
 **Reach out** at maddalena.conte@ensae.fr
