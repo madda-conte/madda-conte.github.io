@@ -16,6 +16,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate in Economics at CREST & Institut Polytechnique de Paris under the supervision of Benoit Schmutz and Isabelle Mejean
+I am a PhD candidate in Economics at CREST & Institut Polytechnique de Paris under the supervision of <a href='https://sites.google.com/site/benoitschmutz/'>Benoit Schmutz</a> and <a href='http://www.isabellemejean.com/'>Isabelle Mejean</a>
 
-My research topics are economic geography, labor, migration and urban economics
+My research topics are economic **geography, labor, migration** and **urban economics**
