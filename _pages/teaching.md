@@ -7,6 +7,7 @@ nav: true
 nav_order: 6
 ---
 <a style="color: inherit">**Economist - Osservatorio del Terziario Manageritalia**</a>
+
 November 2022 - ongoing
 
 This think tank develops analysis and reports on the services sector of the Italian economy, with the aim of  highlighting opportunities for Italy's sustainable development and competitiveness. 
@@ -17,6 +18,7 @@ This think tank develops analysis and reports on the services sector of the Ital
 - Organized webinars and events for policymakers and stakeholders at the local and national level
 
 <a style="color: inherit">**Fellow - Think Tank Tortuga**</a>
+
 June 2018 - June 2022
 
 Tortuga is the first think tank of young economists and social scientists in Italy, producing analysis and research on economic and political current affairs, developing policy proposals, and supporting institutions and policy making.
