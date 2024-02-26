@@ -1,12 +1,28 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Policy
+description: 
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+**Economist - Osservatorio del Terziario Manageritalia**
+November 2022 - ongoing
 
-Organize your courses by years, topics, or universities, however you like!
+This think tank develops analysis and reports on the services sector of the Italian economy, with the aim of  highlighting opportunities for Italy's sustainable development and competitiveness. 
+- I have produced comparative studies between Italy and its global economic partners
+- Collaborated with policymakers and private-sector stakeholders on analytical pieces and policy recommendations
+- Prepared a quarterly newsletter with updates on the Italian economy
+- Presented results of our research in seminars and conferences
+- Organized webinars and events for policymakers and stakeholders at the local and national level
+
+**Fellow - Think Tank Tortuga**
+June 2018 - June 2022
+
+Tortuga is the first think tank of young economists and social scientists in Italy, producing analysis and research on economic and political current affairs, developing policy proposals, and supporting institutions and policy making.
+- As part of Tortuga, I have produced research and articles on economic policy topics in Italy and Europe
+- Partnered with public stakeholders to support their analysis
+- Co-authored the book "Ci Pensiamo Noi" (2020, Egea Editore, in Italian)
+- Collaborated in policy reports, such as "Voucher: uso e contestualizzazione alla luce del Covid-19" (2020). ADAPT Working Papers. Joint with Enrico Cavallotti, Sergio Inferrera, Lorenzo Navarini, and Filippo Passerini (in Italian).
+
