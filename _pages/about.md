@@ -6,7 +6,7 @@ subtitle: <a href='https://crest.science/'>CREST & Institut Polytechnique de Par
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: DSCN0541_small.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
