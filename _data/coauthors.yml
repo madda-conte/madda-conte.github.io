@@ -1,34 +1,23 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"schmutz":
+  - firstname: ["Benoit", "B.", "B. S.", "Benoit Schmutz"]
+    url: https://sites.google.com/site/benoitschmutz/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"mejean":
+  - firstname: ["Isabelle", "I.", "I. M.", "Isabelle Mejean"]
+    url: http://www.isabellemejean.com/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"michalski":
+  - firstname: ["Tomasz", "T.", "T. M." "Tomasz Michaski"]
+    url: https://sites.google.com/hec.fr/tomasz-michalski/home
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"mulalic":
+  - firstname: ["Ismir", "I.", "I. M.", "Ismir Mulalic"]
+    url: https://sites.google.com/view/ismirmulalic/home?authuser=0
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"ommeren":
+  - firstname: ["Jos", "J.", "J. v. O.", "Jos van Ommeren"]
+    url: https://research.vu.nl/en/persons/jos-van-ommeren
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
