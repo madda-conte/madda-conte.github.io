@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research/
+permalink: /publications/
 title: Research
 description: Work in progress and completed work
 nav: true
