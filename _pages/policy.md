@@ -12,7 +12,7 @@ Developing analysis and reports on the Italian economy
 <a href='https://www.tortuga-econ.it/'>Fellow - Think Tank Tortuga</a> - Remote, *June 2017 - April 2022*     
 Produced research and articles on economic policy topics in Italy and Europe, and co-authored the book <a href='https://www.egeaeditore.it/ita/prodotti/sociologia/ci-pensiamo-noi.aspx'>Ci Pensiamo Noi</a> (2020, Egea Editore, in Italian)
 
-<a href='https://www.localopportunitieslab.it/?page_id=2842'>Researcher - Local Opportunities Lab</a> - Remote, *June 2020 - October 2021*    
+Researcher - Local Opportunities Lab - Remote, *June 2020 - October 2021*    
 Supported collection and analysis of Italian local-level data to assess differences in economic opportunities and outcomes across Italy
 
 <a href='https://www.ecb.europa.eu/home/html/index.en.html'>Trainee - European Central Bank </a> - Frankfurt am Main, *August 2019 - November 2019*   
