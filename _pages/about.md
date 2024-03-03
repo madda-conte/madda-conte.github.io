@@ -20,6 +20,10 @@ I am a PhD candidate in Economics at CREST & Institut Polytechnique de Paris und
 
 My research topics are **economic geography, labor, migration** and **urban economics**
 
+*In Spring 2024, I will be visiting the Economics Department at  the University of California, Berkeley, hosted by Enrico Moretti*
+
 You can find my full CV <a href='https://drive.google.com/file/d/1hMRicrYkQpj1WdExWVBfnOagIF7oAP_g/view?usp=drive_link'>**here**</a>
 
 Reach out at maddalena.conte@ensae.fr
+
+
