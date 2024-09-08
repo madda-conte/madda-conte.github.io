@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 6
 ---
-<a href='https://www.manageritalia.it/osservatorio-del-terziario/'>Economist - Osservatorio del Terziario Manageritalia</a> - Remote, *November 2022 - ongoing*    
+<a href='https://www.manageritalia.it/osservatorio-del-terziario/'>Economist - Osservatorio del Terziario Manageritalia</a> - Remote, *November 2022 - August 2024*    
 Developing analysis and reports on the Italian economy
 
 <a href='https://www.tortuga-econ.it/'>Fellow - Think Tank Tortuga</a> - Remote, *June 2017 - April 2022*     
