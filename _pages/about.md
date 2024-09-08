@@ -16,11 +16,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate in Economics at CREST & Institut Polytechnique de Paris under the supervision of <a href='https://sites.google.com/site/benoitschmutz/'>Benoit Schmutz</a> and <a href='http://www.isabellemejean.com/'>Isabelle Mejean</a>
+I am a PhD candidate in Economics at *CREST & Institut Polytechnique de Paris* under the supervision of <a href='https://sites.google.com/site/benoitschmutz/'>Benoit Schmutz</a> and <a href='http://www.isabellemejean.com/'>Isabelle Mejean</a>
 
 My research topics are **economic geography, labor, migration** and **urban economics**
 
-*In Spring 2024, I will be visiting the Economics Department at  the University of California, Berkeley, hosted by Prof. <a href='https://moretti.econ.berkeley.edu/'>Enrico Moretti</a>*
+From October 2024 I will work as Senior Economist at the <a href='https://www.ipp.eu/'>***Institut de Politiques Publiques***</a>
 
 You can find my full CV <a href='https://drive.google.com/file/d/1hMRicrYkQpj1WdExWVBfnOagIF7oAP_g/view?usp=drive_link'>**here**</a>
 
