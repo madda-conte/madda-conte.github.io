@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https://crest.science/'>CREST & Institut Polytechnique de Paris</a>
+subtitle: <a href='https://www.ipp.eu/'>Institut des Politiques Publiques</a>
 
 profile:
   align: right
