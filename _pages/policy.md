@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 <a href='https://www.manageritalia.it/osservatorio-del-terziario/'>Economist - Osservatorio del Terziario Manageritalia</a> - Remote, *November 2022 - August 2024*    
-Developing analysis and reports on the Italian economy
+Developed analysis and reports on the Italian economy
 
 <a href='https://www.tortuga-econ.it/'>Fellow - Think Tank Tortuga</a> - Remote, *June 2017 - April 2022*     
 Produced research and articles on economic policy topics in Italy and Europe, and co-authored the book <a href='https://www.egeaeditore.it/ita/prodotti/sociologia/ci-pensiamo-noi.aspx'>Ci Pensiamo Noi</a> (2020, Egea Editore, in Italian)
