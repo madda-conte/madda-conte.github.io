@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a Senior Research Economist at the <a href='https://www.ipp.eu/'>***Institut des Politiques Publiques***</a>
+I am a Research Economist at the <a href='https://www.ipp.eu/'>***Institut des Politiques Publiques***</a>
 
 My research topics are **economic geography, labor, migration** and **urban economics**
 
