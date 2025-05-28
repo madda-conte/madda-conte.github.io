@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 6
 ---
-https://www.sdabocconi.it/it/faculty-ricerche/ricerca/new-value-knowledge-platform/pnrr-lab
+
 <a href='https://www.sdabocconi.it/it/faculty-ricerche/ricerca/new-value-knowledge-platform/pnrr-lab'>Research Fellow - PNRR Lab </a> - Remote, *November 2024 - ongoing*    
 Producing impact evaluation of the PNRR (Italy's Recovery and Resilience Facility) and other strategic public investment projects on local economic development
 
