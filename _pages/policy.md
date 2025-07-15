@@ -7,7 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-
 <a href='https://www.manageritalia.it/osservatorio-del-terziario/'>Economist - Osservatorio del Terziario Manageritalia</a> - Remote, *November 2022 - August 2024*    
 Developed analysis and reports on the Italian economy
 
