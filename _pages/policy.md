@@ -7,8 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-#<a href='https://www.sdabocconi.it/it/faculty-ricerche/ricerca/new-value-knowledge-platform/pnrr-lab'>Research Fellow - PNRR Lab </a> - Remote, *November 2024 - ongoing*    
-#Producing impact evaluation of the PNRR (Italy's Recovery and Resilience Facility) and other strategic public investment projects on local economic development
 
 <a href='https://www.manageritalia.it/osservatorio-del-terziario/'>Economist - Osservatorio del Terziario Manageritalia</a> - Remote, *November 2022 - August 2024*    
 Developed analysis and reports on the Italian economy
