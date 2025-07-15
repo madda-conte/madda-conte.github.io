@@ -16,9 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a Research Economist at the <a href='https://www.ipp.eu/'>***Institut des Politiques Publiques***</a>
+I am a Senior Research Economist at the <a href='https://www.ipp.eu/'>***Institut des Politiques Publiques***</a>
 
-My research topics are **labor economics and economic geography**
+My research topics are **labor economics and economic geography**. I am also increasingly interested in topics in **environmental economics**, which I aim to study from a labor and spatial perspective.
 
 In November 2024 I defended my PhD in Economics at *CREST & Institut Polytechnique de Paris* under the supervision of <a href='https://sites.google.com/site/benoitschmutz/'>Benoit Schmutz</a> and <a href='http://www.isabellemejean.com/'>Isabelle Mejean</a>
 
