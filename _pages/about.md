@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https://www.ipp.eu/'>Institut des Politiques Publiques</a>
+subtitle: <a href='https://www.ipp.eu/'>Institut des Politiques Publiques</a> & <a href='https://www.parisschoolofeconomics.eu/'>Paris School of Economics</a>
 
 profile:
   align: right
@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a Senior Research Economist at the <a href='https://www.ipp.eu/'>***Institut des Politiques Publiques***</a>
+I am a Senior Research Economist at the <a href='https://www.ipp.eu/'>***Institut des Politiques Publiques***</a> and the <a href='https://www.parisschoolofeconomics.eu/'>***Paris School of Economics***</a>
 
 My research topics are **economic geography and labor economics**. I am also increasingly interested in topics in **environmental economics**, which I aim to study from a labor and spatial perspective.
 
