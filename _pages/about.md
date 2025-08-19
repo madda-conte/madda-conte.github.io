@@ -20,7 +20,7 @@ I am a Senior Research Economist at the <a href='https://www.ipp.eu/'>***Institu
 
 My research topics are **economic geography and labor economics**. I am also increasingly interested in topics in **environmental economics**, which I aim to study from a labor and spatial perspective.
 
-In November 2024 I defended my PhD in Economics at <a href='https://crest.science/'>*CREST*</a> *& Institut Polytechnique de Paris* under the supervision of Benoit Schmutz and Isabelle Mejean.
+In November 2024 I defended my PhD in Economics at <a href='https://crest.science/'>*CREST*</a> & <a href='https://www.ip-paris.fr/en'>*Institut Polytechnique de Paris*</a> under the supervision of Benoit Schmutz and Isabelle Mejean.
 
 
 You can find my full CV <a href='https://drive.google.com/file/d/1hMRicrYkQpj1WdExWVBfnOagIF7oAP_g/view?usp=drive_link'>**here**</a>
