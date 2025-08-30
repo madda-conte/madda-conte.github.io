@@ -9,7 +9,9 @@ nav_order: 6
 
 Between 2022 and 2024, I collaborated with <a href='https://www.manageritalia.it/osservatorio-del-terziario/'>Osservatorio del Terziario</a>, the research group of the managers' association Manageritalia.
 
-Between 2017 and 2022 I collaborated with <a href='https://www.tortuga-econ.it/'>Tortuga</a>, the first policy think tank for young economists and social scientists in Italy.
+Between 2017 and 2022, I collaborated with <a href='https://www.tortuga-econ.it/'>Tortuga</a>, the first policy think tank for young economists and social scientists in Italy.
+
+Selected policy work:
 
 <ul>
   <li> L’expérimentation Territoires zéro chômeur de longue durée : analyse quantitative des entreprises à but d’emploi et de leurs salariés (forthcoming, autumn 2025). Joint with Thomas Breda, Camille Ciriez, Audrey Rain, Éléonore Richard, Joyce Sultan Parraud, Anaïs Tavanti (in French) </li>
