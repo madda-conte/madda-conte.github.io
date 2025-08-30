@@ -7,6 +7,8 @@ nav: true
 nav_order: 6
 ---
 
+From november 2024, I have been collaborating with <a href='https://www.sdabocconi.it/it/faculty-ricerche/ricerca/new-value-knowledge-platform/pnrr-lab'>the PNRR Lab</a> of Bocconi University, supporting the evaluation of the PNRR (Italy's Recovery and Resilience Facility) on local economic development.
+
 Between 2022 and 2024, I collaborated with <a href='https://www.manageritalia.it/osservatorio-del-terziario/'>Osservatorio del Terziario</a>, the research group of the managers' association Manageritalia.
 
 Between 2017 and 2022, I collaborated with <a href='https://www.tortuga-econ.it/'>Tortuga</a>, the first policy think tank for young economists and social scientists in Italy.
