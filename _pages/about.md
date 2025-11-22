@@ -22,7 +22,7 @@ My research topics are **economic geography and labor economics**. I am also inc
 
 In November 2024 I defended my PhD in Economics at <a href='https://crest.science/'>*CREST*</a> & <a href='https://www.ip-paris.fr/en'>*Institut Polytechnique de Paris*</a> under the supervision of Benoit Schmutz and Isabelle Mejean.
 
-I was awarded the Philippe Martin 2025 prize for the best thesis in economic sciences by the Conseil d’analyse économique and the Crédit Mutuel Alliance Fédérale.
+I was awarded the Philippe Martin 2025 prize for the best thesis in economic sciences by the Conseil d’analyse économique.
 
 You can find my full CV <a href='https://drive.google.com/file/d/1hMRicrYkQpj1WdExWVBfnOagIF7oAP_g/view?usp=drive_link'>**here**</a>
 
