@@ -24,7 +24,7 @@ In November 2024 I defended my PhD in Economics at <a href='https://crest.scienc
 
 I have been awarded the <a href='https://www.afse.fr/en/news/prix-philippe-martin-2025-2448'>Philippe Martin 2025 prize</a> for the best thesis in economic sciences by the Conseil d’analyse économique.
 
-You can find my full CV <a href='https://drive.google.com/file/d/1hMRicrYkQpj1WdExWVBfnOagIF7oAP_g/view?usp=drive_link'>**here**</a>.
+You can find my full CV <a href='https://drive.google.com/file/d/1hMRicrYkQpj1WdExWVBfnOagIF7oAP_g/view?usp=drive_link'>**here**</a>
 
 Reach out at maddalena.conte@ipp.eu
 
