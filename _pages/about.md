@@ -18,7 +18,7 @@ social: false # includes social icons at the bottom of the page
 
 I am a Senior Research Economist at the <a href='https://www.ipp.eu'>***Institut des Politiques Publiques***</a> and the <a href='https://www.parisschoolofeconomics.eu/'>***Paris School of Economics***</a>.
 
-My research topics are **economic geography and labor economics**. I am also increasingly interested in topics in **environmental economics**, which I aim to study from a labor and spatial perspective.
+My research topics are **economic geography and labor economics**. I am also increasingly interested in topics in **environmental economics**, which I study from a labor and spatial perspective.
 
 In November 2024 I defended my PhD in Economics at <a href='https://crest.science'>*CREST*</a> & <a href='https://www.ip-paris.fr'>*Institut Polytechnique de Paris*</a> under the supervision of Benoît Schmutz and Isabelle Méjean.
 
