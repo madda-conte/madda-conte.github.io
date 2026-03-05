@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-Since november 2024, I have been collaborating as a Research Fellow with Bocconi University, supporting the impact evaluation of the PNRR (Italy's Recovery and Resilience Facility) and the impact evaluation of the Milano-Cortina 2026 Olympic and Paralympic Games.
+Since november 2024, I have been collaborating as a Research Fellow with Bocconi University, supporting the impact evaluation of the PNRR (Italy's Recovery and Resilience Facility) at the <a href='https://www.sdabocconi.it/en/faculty-research/research/pnrr-lab/'>PNRR Lab</a>, and the impact evaluation of the Milano-Cortina 2026 Olympic and Paralympic Games.
 
 Between 2022 and 2024, I collaborated with <a href='https://www.manageritalia.it/osservatorio-del-terziario/'>Osservatorio del Terziario</a>, the research group of the managers' association Manageritalia.
 
