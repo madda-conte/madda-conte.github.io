@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https://www.ipp.eu/'>Institut des Politiques Publiques</a> & <a href='https://www.parisschoolofeconomics.eu/'>Paris School of Economics</a>
+subtitle: <a href='https://www.sdabocconi.it'>SDA Bocconi School of Management</a>
 
 profile:
   align: right
@@ -16,9 +16,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a Senior Research Economist at the <a href='https://www.ipp.eu'>***Institut des Politiques Publiques***</a> and the <a href='https://www.parisschoolofeconomics.eu/'>***Paris School of Economics***</a>.
+I am an Assistant Professor of Practice at <a href='https://www.sdabocconi.it'>***SDA Bocconi School of Management***</a>. 
 
-My research topics are **economic geography**, **labor economics**, and **environmental economics**.
+I am also an affiliated researcher at the <a href='https://www.ipp.eu/'>***Institut des politiques publiques***</a>.
+
+My research topics are **public policy evaluation**, **economic geography**, and **environmental economics**.
 
 I hold a PhD in Economics from <a href='https://crest.science'>*CREST*</a> & <a href='https://www.ip-paris.fr'>*Institut Polytechnique de Paris*</a>.
 
@@ -26,5 +28,5 @@ I have been awarded the <a href='https://cae-eco.fr/le-prix-de-these-philippe-ma
 
 You can find my full CV <a href='https://drive.google.com/file/d/1hMRicrYkQpj1WdExWVBfnOagIF7oAP_g/view?usp=drive_link'>**here**</a>.
 
-Reach out at maddalena.conte@ipp.eu
+Reach out at maddalena.conte@unibocconi.it
 
