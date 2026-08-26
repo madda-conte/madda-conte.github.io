@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https://www.sdabocconi.it'>SDA Bocconi School of Management</a>
+subtitle: <a href='https://www.sdabocconi.it'>SDA Bocconi</a>
 
 profile:
   align: right
@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor of Practice at <a href='https://www.sdabocconi.it'>***SDA Bocconi School of Management***</a>. 
+I am an Assistant Professor of Practice at <a href='https://www.sdabocconi.it'>***SDA Bocconi***</a>. 
 
 I am also an affiliated researcher at the <a href='https://www.ipp.eu/'>***Institut des politiques publiques***</a>.
 
