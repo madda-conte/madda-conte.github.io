@@ -18,8 +18,6 @@ social: false # includes social icons at the bottom of the page
 
 I am an Assistant Professor of Practice at <a href='https://www.sdabocconi.it'>***SDA Bocconi***</a>. 
 
-#I am also an affiliated researcher at the <a href='https://www.ipp.eu/'>***Institut des politiques publiques***</a>.
-
 My research topics are **public policy evaluation**, **economic geography**, and **environmental economics**.
 
 I hold a PhD in Economics from <a href='https://crest.science'>*CREST*</a> & <a href='https://www.ip-paris.fr'>*Institut Polytechnique de Paris*</a>.
