@@ -16,9 +16,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor of Practice at <a href='https://www.sdabocconi.it'>***SDA Bocconi***</a>. 
+I am an Assistant Professor of Practice at <a href='https://www.sdabocconi.it'>***SDA Bocconi***</a>.
 
-My research topics are **public policy evaluation**, **economic geography**, and **environmental economics**.
+I am also an Affiliated Researcher at the <a href='https://www.ipp.eu'>***Institut des Politiques Publiques***</a> of the Paris School of Economics.
+
+My research topics are **economic geography**, **environmental economics**, and **public policy evaluation**.
 
 I hold a PhD in Economics from <a href='https://crest.science'>*CREST*</a> & <a href='https://www.ip-paris.fr'>*Institut Polytechnique de Paris*</a>.
 
