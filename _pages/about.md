@@ -6,7 +6,7 @@ subtitle: <a href='https://www.sdabocconi.it'>SDA Bocconi</a>
 
 profile:
   align: right
-  image: DSCN0541_small.jpg
+  image: IMG_2427 final.jpg
   image_circular: false # crops the image to make it circular
  
 
